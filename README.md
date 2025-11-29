@@ -9,7 +9,7 @@ Home: www.kataxwork.com<br>
 > Blueprint and C++
 
 > [!IMPORTANT]
-> To use this application, intermediate C++ programming skills with Unreal Engine, and knowledge of using <b>Events</b> and <b>Parent Class</b>,and also basic knowledge of develop <b>Blueprint Interface</b> are required.
+> To use this application, intermediate C++ programming skills with Unreal Engine, knowledge of using <b>Events</b> and <b>Parent Class</b> and also, basic knowledge of develop <b>Blueprint Interface</b> are required.
 
 This application:
 
